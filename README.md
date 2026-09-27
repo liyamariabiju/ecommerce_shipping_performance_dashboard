@@ -2,7 +2,7 @@
 
 An interactive dark-themed Excel dashboard tracking logistics efficiency, carrier delays, and shipping costs across international markets.
 
-![Dashboard Preview](dashboard.png)
+![Dashboard Preview](dashboard.png.png)
 
 ## Overview
 Built with Microsoft Excel to give operational visibility into e-commerce fulfillment. It pairs order volumes against delivery speed and benchmarks carrier reliability to expose logistics bottlenecks.
